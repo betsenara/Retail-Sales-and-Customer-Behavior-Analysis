@@ -47,6 +47,7 @@ avg_items_per_transaction: Average number of items per transaction.\
 avg_transaction_value: Average value per transaction.\
 total_returned_items: Total number of items returned by the customer.\
 total_returned_value: Total value of returned items.\
+
 **Sales Data:**
 
 total_sales: Total sales amount for each customer over the last year - Target for regression.\
@@ -117,6 +118,7 @@ churn_risk_score: A score representing the risk of customer churn based on purch
 **Linking of Columns Customer Information:**
 
 Columns like customer_id, age, gender, income_bracket, and membership_years are linked to customer demographics and loyalty, which can influence their purchasing behavior, average purchase value, and likelihood to churn.\
+
 **Transactional Data:**
 
 transaction_id is linked to customer_id, providing insights into each customer's purchasing patterns over time.\
