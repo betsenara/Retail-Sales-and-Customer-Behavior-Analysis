@@ -4,7 +4,7 @@ The dataset retail_data.csv includes a total of a million rows and 100+ columns
 
 ## Data Source
 
-The dataset is obtained from [Kaggle]([https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda?resource=download])). 
+The dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda?resource=download). 
 
 ### Detailed Column Descriptions
 
